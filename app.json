@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "ef56f086-d6e1-4976-a12f-1483942f3d86"
+      }
+    },
+    "android": {
+      "package": "com.themathh.CotationApp"
+    }
+  }
+}
